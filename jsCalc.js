@@ -1,6 +1,4 @@
-// == jsCalc ==
-
-  function clearDisplay() {
+function clearDisplay() {
       var display = document.getElementById('display');
       display.value = '0';
       storedNum = '0';
