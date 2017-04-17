@@ -1,0 +1,9 @@
+body {
+
+    background:lightgrey}
+
+#container {
+    border: solid 1px black;
+    width: 150px;
+    padding: 20px;
+}
