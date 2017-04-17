@@ -1,8 +1,4 @@
-  /**
- * Created by user on 4/17/17.
- */
-
-  // == jsCalc ==
+// == jsCalc ==
 
   function clearDisplay() {
       var display = document.getElementById('display');
